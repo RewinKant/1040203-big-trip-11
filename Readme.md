@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Evgenii Kovalenko](https://up.htmlacademy.ru/ecmascript/11/user/1040203).
-* Наставник: `Неизвестно`.
+* Наставник: [Вячеслав Зайцев](https://htmlacademy.ru/profile/id428459).
 
 ---
 
