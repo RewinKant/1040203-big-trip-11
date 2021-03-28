@@ -5,6 +5,7 @@ import {createSiteTripSort} from "./view/trip-sort.js";
 import {createSiteNewTrip} from "./view/new-trip.js";
 import {createSiteTripDays} from "./view/trip-days.js";
 import {createSiteTripItem} from "./view/trip-item.js";
+// import {createDestinationText} from "./mook/dataTest.js";
 
 const TASK_COUNT = 3;
 
@@ -30,3 +31,5 @@ const siteTripList = siteTripEvents.querySelector(`.trip-events__list`);
 for (let i = 0; i < TASK_COUNT; i++) {
   render(siteTripList, createSiteTripItem(), `beforeend`);
 }
+
+// consolelog(createDestinationText(5));
